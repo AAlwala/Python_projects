@@ -39,8 +39,6 @@ A simple task manager for the terminal.
 - Remove completed tasks
 - Save and exit
 
----
-
 ###  5. Number Guessing Game
 Try to guess the number randomly picked by the computer.
 
@@ -49,7 +47,7 @@ Try to guess the number randomly picked by the computer.
 - Tells you if your guess is too high or too low
 - Counts the number of attempts
 
----
+
 ## Requirements
 These projects use only Python's built-in libraries:
 - No external installations are needed
